@@ -26,5 +26,7 @@ int main() {
     printf("Estado: SE\n");
     printf("Código: SE001\n");
 
+    printf("Novo Commit\n")
+
     return 0;
 }
